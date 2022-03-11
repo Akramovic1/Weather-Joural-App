@@ -6,6 +6,5 @@ Weather journal app which hepls you to know the weather of any location in the w
 ## What I used: 
 HTML, CSS, Javascript (Vanilla)
 
-![](pic.PNG)
 
 
